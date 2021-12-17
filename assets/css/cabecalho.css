@@ -1,0 +1,14 @@
+.cabecalho{
+    align-items: center;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+}
+
+@media screen and (max-width: 768px){
+    .cabecalho{
+        flex-direction: column;
+    }
+}

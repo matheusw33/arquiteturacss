@@ -1,0 +1,7 @@
+.receitas{
+    background-color: #E5E5E5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem 0;
+}

@@ -1,0 +1,15 @@
+.sobre__descricao{
+    color: #8C8888;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 300;
+    line-height: 2rem;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+@media screen and (max-width: 560px){
+    .sobre__descricao{
+        font-size: 1.3rem;
+    }
+}

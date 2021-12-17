@@ -1,0 +1,12 @@
+.sobre__titulo{
+    color: #8D0606;
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 560px){
+    .sobre__titulo{
+        font-size: 2rem;
+    }
+}
